@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Guess which Pokemon you are?</string>
+    <string name="guess">Guess!!</string>
+    <string name="title">Which Pokemon you are?</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+</resources>
